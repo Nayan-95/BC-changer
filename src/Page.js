@@ -54,7 +54,7 @@ const Page = () => {
                     style={{
                         position: 'absolute',
                         width: '100px',
-                        color: color,
+                        color: 'black',
                         backgroundColor: 'beige',
                         border: 'solid 2px bisque',
                         borderRadius: '20px',
